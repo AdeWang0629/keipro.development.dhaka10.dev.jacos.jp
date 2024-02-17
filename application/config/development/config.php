@@ -16,7 +16,7 @@
 */
 
 if($_SERVER['SERVER_NAME'] === 'localhost'){
-    $config['base_url'] = 'http://localhost/word/';
+    $config['base_url'] = 'http://localhost/';
 }elseif($_SERVER['SERVER_NAME'] === '192.168.100.120'){
     $config['base_url'] = 'http://192.168.100.120:8080/word/';
 }elseif($_SERVER['SERVER_NAME'] === '127.0.0.1'){
@@ -25,7 +25,7 @@ if($_SERVER['SERVER_NAME'] === 'localhost'){
     // Dhaka Jacos Server
     $config['base_url'] = 'http://120.50.12.155/word/';
 }else{
-    $config['base_url'] = 'https://word-dev.jacos-cloud.com/word/';
+    $config['base_url'] = 'https://word-dev.jacos-cloud.com/';
 }
 
 /*
