@@ -15,7 +15,7 @@
 |
 */
 //$config['base_url'] = 'https://keipro.dhaka10.dev.jacos.jp/dev/';
-$config['base_url'] = 'http://localhost/word/';
+$config['base_url'] = 'https://word-dev.jacos-cloud.com/word';
 // $config['base_url'] = 'https://keipro.dhaka10.dev.jacos.jp/';
 
 /*

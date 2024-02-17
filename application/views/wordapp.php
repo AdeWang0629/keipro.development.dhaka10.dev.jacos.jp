@@ -528,7 +528,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     navigator.serviceWorker.ready.then(function (registration) {
                         registration.showNotification(total_unread_email_section, {
                             body: '送信者：' + sender_name + ' さんより\n' + notification_text + '\n日付             時間\n' + created_date,
-                            icon: 'https://e901-83-234-227-9.ngrok-free.app/resource/img/notification_icon.png',
+                            icon: 'https://word-dev.jacos-cloud.com/resource/img/notification_icon.png',
                             vibrate: [200, 100, 200, 100, 200, 100, 200],
                             tag:base_url + 'index.php/wordapp/view_settlement_form/' + settlement_id + '/' + share_this_settlement_id
 //                            requireInteraction: true,

@@ -25,7 +25,7 @@ if($_SERVER['SERVER_NAME'] === 'localhost'){
     // Dhaka Jacos Server
     $config['base_url'] = 'http://120.50.12.155/word/';
 }else{
-    $config['base_url'] = 'https://e901-83-234-227-9.ngrok-free.app/word/';
+    $config['base_url'] = 'https://word-dev.jacos-cloud.com/word/';
 }
 
 /*

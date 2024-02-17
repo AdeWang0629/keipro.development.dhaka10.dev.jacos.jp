@@ -62,7 +62,7 @@
 if($_SERVER['SERVER_NAME'] === 'localhost'){
     $mother_url = 'http://localhost/keipro_all/';
 }else{
-    $mother_url = 'https://e901-83-234-227-9.ngrok-free.app/';
+    $mother_url = 'https://word-dev.jacos-cloud.com/';
 }
 ?>
 <div class="" style="width:100%; margin: 0 auto">
