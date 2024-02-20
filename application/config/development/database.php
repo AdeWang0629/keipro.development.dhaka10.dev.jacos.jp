@@ -47,7 +47,7 @@ $active_record = TRUE;
 // $db['default']['database'] = 'editor';
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['password'] = '=-EHm:DVg1p?';
 $db['default']['database'] = 'word_app';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
